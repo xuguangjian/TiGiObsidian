@@ -1,13 +1,27 @@
+caption: 初阶教程（MOC）
+created: 20240401010252077
+modified: 20240401125530668
+modifier: 
+obvault: obsidian中文教程
+tags: [[03 教程]]
+title: λ:/obsidian中文教程/03 教程/初阶教程（MOC）
+type: text/vnd.tiddlywiki
+
 ### 基本概念
 你需要先了解[[双向链接|λ:/obsidian中文教程/01 2021新教程/双向链接]]和[[Markdown|λ:/obsidian中文教程/01 2021新教程/Markdown]]，另外请看一下[[简单的问答（Q&A）|λ:/obsidian中文教程/01 2021新教程/简单的问答（Q&A）]]，最后参考[[如何启动中文界面|λ:/obsidian中文教程/03 教程/如何启动中文界面]]，开启中文版。
 此外还有一些[[简单的问答（Q&A）|λ:/obsidian中文教程/01 2021新教程/简单的问答（Q&A）]]
 ### 导入
 如果你手上有其他格式的数据，需要导入ob，可以在本节
 [[如何将Excel表格转md（MOC）|λ:/obsidian中文教程/03 教程/如何将Excel表格转md（MOC）]]
+
 [[如何将notion转md|λ:/obsidian中文教程/03 教程/如何将notion转md]]
+
 [[如何将网页web转md|λ:/obsidian中文教程/03 教程/如何将网页web转md]]
+
 [[如何将tiddlywiki转md|λ:/obsidian中文教程/03 教程/如何将tiddlywiki转md]]
+
 [[如何将RoamResearch导入obsidian|λ:/obsidian中文教程/03 教程/如何将RoamResearch导入obsidian]]
+
 可能没有列全，但所有的文件名中带有“转md”的文件都属于此小节
 
 ### 导出

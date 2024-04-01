@@ -1,0 +1,2 @@
+- child [[中国|λ:/obsidian中文教程/breadcrumbs插件演示/中国]]
+- sibling [[北美洲|λ:/obsidian中文教程/breadcrumbs插件演示/北美洲]] [[欧洲|λ:/obsidian中文教程/breadcrumbs插件演示/欧洲]] [[非洲|λ:/obsidian中文教程/非洲]] [[澳洲|λ:/obsidian中文教程/澳洲]]

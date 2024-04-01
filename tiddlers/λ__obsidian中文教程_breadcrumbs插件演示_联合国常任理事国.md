@@ -1,0 +1,1 @@
+- child [[中国|λ:/obsidian中文教程/breadcrumbs插件演示/中国]] [[美国|λ:/obsidian中文教程/breadcrumbs插件演示/美国]] [[俄罗斯|λ:/obsidian中文教程/breadcrumbs插件演示/俄罗斯]] [[英国|λ:/obsidian中文教程/breadcrumbs插件演示/英国]] [[法国|λ:/obsidian中文教程/breadcrumbs插件演示/法国]] 

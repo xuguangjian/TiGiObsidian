@@ -1,0 +1,2 @@
+[[蚕子|λ:/obsidian中文教程/07 信息源与贡献者/蚕子]]很擅长于Quicker的应用。
+此外[[Zplusless|λ:/obsidian中文教程/07 信息源与贡献者/Zplusless]]也开发了相关插件[[202008271407用Quicker引用PDF by Zplusless|λ:/obsidian中文教程/09 碎记/202008271407用Quicker引用PDF by Zplusless]]

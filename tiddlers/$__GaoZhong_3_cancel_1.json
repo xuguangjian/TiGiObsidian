@@ -1,0 +1,27 @@
+[
+    {
+        "created": "20220621074318383",
+        "title": "$:/GaoZhong_3/cancel_1",
+        "tags": "?",
+        "word": "cancel",
+        "transCn": "<b>vt.</b>  取消<br>",
+        "caption": "{{||$:/plugins/oflg/fishing-cannedfish-GaoZhong_3/Word}}",
+        "ukphone": " 'kænsl ",
+        "usphone": "'kænsl",
+        "phrases": "cancel button: 取消按钮<br>cancel out: 取消；抵销<br>cancel after verification: 核销<br>",
+        "sentences": "Our flight was cancelled.<br>^^我们的航班取消了。^^<br>I’m afraid I’ll have to cancel our meeting tomorrow.<br>^^恐怕我得取消我们明天的会议。^^<br>You’ll just have to ring John and cancel.<br>^^你只能打电话给约翰取消了。^^<br>",
+        "relWords": "<b>n.</b><br>cancellation:  取消；删除<br><br>",
+        "synos": "<b>vt.</b><br>[计]取消；删去：recall, call it off<br><b>vi.</b><br>[计]取消；相互抵销：call it off, declare off<br><b>n.</b><br>[计]取消，撤销：withdrawal, revocation<br>",
+        "modified": "20240402010312968",
+        "due": "20240404010312968",
+        "interval": "0",
+        "difficulty": "5",
+        "stability": "2",
+        "retrievability": "1",
+        "lapses": "0",
+        "reps": "1",
+        "grade": "-1",
+        "review": "20240402010312968",
+        "history": "[]"
+    }
+]

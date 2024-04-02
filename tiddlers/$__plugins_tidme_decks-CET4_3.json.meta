@@ -1,0 +1,10 @@
+author: oflg
+core-version: >=5.3.0
+description: 新东方四级词汇
+list: readme
+name: Tidme Decks
+plugin-type: plugin
+source: https://github.com/oflg/Tidme
+title: $:/plugins/tidme/decks-CET4_3
+type: application/json
+version: 1.1.2

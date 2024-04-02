@@ -1,0 +1,26 @@
+[
+    {
+        "created": "20220621074318384",
+        "title": "$:/GaoZhong_3/analyse_5",
+        "tags": "?",
+        "word": "analyse",
+        "transCn": "<b>vt.</b>  分析； 研究<br>",
+        "caption": "{{||$:/plugins/oflg/fishing-cannedfish-GaoZhong_3/Word}}",
+        "ukphone": " 'ænəlaɪz ",
+        "usphone": "'æn(ə)laɪz",
+        "sentences": "She still needs to analyse the data.<br>^^她仍需要分析这些数据。^^<br>You need to sit down and analyse why you feel so upset.<br>^^你得坐下来想一想自己为什么会那么生气。^^<br>Joe had never tried to analyze their relationship.<br>^^乔从未试图去理清他们的关系。^^<br>",
+        "relWords": "<b>adj.</b><br>analytical:  分析的；解析的；善于分析的<br>analytic:  分析的；解析的；善于分析的<br>analyzable:  可分析的<br><br><b>adv.</b><br>analytically:  分析地；解析地<br><br><b>n.</b><br>analysis:  分析；分解；验定<br>analyzer:  [计] 分析器；分析者；检偏镜<br>analyser:  分析器，分析仪；分析者<br>analyticity:  分析性，[数] 解析性<br><br>",
+        "synos": "<b>vt.</b><br>分析；分解；细察：study, break down<br>",
+        "modified": "20240402013004807",
+        "due": "20240404013004807",
+        "interval": "0",
+        "difficulty": "5",
+        "stability": "2",
+        "retrievability": "1",
+        "lapses": "0",
+        "reps": "1",
+        "grade": "-1",
+        "review": "20240402013004807",
+        "history": "[]"
+    }
+]

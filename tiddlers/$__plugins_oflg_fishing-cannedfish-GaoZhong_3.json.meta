@@ -1,0 +1,10 @@
+author: oflg
+core-version: >=5.2.1
+description: 学习包
+list: readme
+name: 新东方高中词汇
+plugin-type: plugin
+source: https://github.com/oflg/fishing-cannedfish
+title: $:/plugins/oflg/fishing-cannedfish-GaoZhong_3
+type: application/json
+version: 0.0.8

@@ -1,0 +1,10 @@
+author: oflg
+core-version: >=5.3.0
+description: 商务英语词汇
+list: readme
+name: Tidme Decks
+plugin-type: plugin
+source: https://github.com/oflg/Tidme
+title: $:/plugins/tidme/decks-BEC_2
+type: application/json
+version: 1.1.2

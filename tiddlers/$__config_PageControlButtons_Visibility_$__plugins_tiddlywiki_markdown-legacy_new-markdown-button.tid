@@ -1,5 +1,5 @@
 created: 20240401130952448
-modified: 20240401130952448
+modified: 20240402032229683
 title: $:/config/PageControlButtons/Visibility/$:/plugins/tiddlywiki/markdown-legacy/new-markdown-button
 
-hide
+show

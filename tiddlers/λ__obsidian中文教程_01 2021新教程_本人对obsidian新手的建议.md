@@ -1,9 +1,4 @@
----
-title: 
-uid: 202112021028
-aliases: []
-tags: []
-from: 
+
 ---
 一个更新版本[[本人对obsidian新手的建议（2022版本） by 软通达|λ:/obsidian中文教程/01 2021新教程/本人对obsidian新手的建议（2022版本） by 软通达]]
 

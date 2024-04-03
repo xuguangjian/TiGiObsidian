@@ -1,17 +1,17 @@
 created: 20220315073031037
-difficulty: 5
-due: 20240403005952182
-grade: -1
-history: []
+difficulty: 4.148683298050514
+due: 20240407022748066
+grade: 2
+history: [{"due":"20240403005952182","interval":1,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240402005952182"}]
 interval: 1
 lapses: 0
-modified: 20240402005952182
+modified: 20240403022748067
 priority: 0
-reps: 1
-retrievability: 1
-review: 20240402005952182
-stability: 2
-tags: 摸鱼子插件 ? .
+reps: 2
+retrievability: 0.9486832980505138
+review: 20240403022748066
+stability: 4.03183163653078
+tags: 摸鱼子插件 . ?
 title: 导入 TWPUB 电子书子插件
 type: text/vnd.tiddlywiki
 

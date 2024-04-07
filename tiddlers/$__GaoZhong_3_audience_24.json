@@ -12,16 +12,16 @@
         "phrases": "target audience: 目标受众；目标观众；目标客户<br>audience rating: n. 收视率；视听率<br>mass audience: 大众受众<br>captive audience: 受制而走不开的听众或观众<br>audience share: 收视率；受众份额<br>",
         "sentences": "The audience began clapping and cheering.<br>^^观众开始鼓掌欢呼。^^<br>One member of the audience described the opera as ‘boring’.<br>^^有一名观众说这出歌剧“乏味”。^^<br>",
         "synos": "<b>n.</b><br>观众；听众；读者；接见：reader, interview<br>",
-        "modified": "20240402013015163",
-        "due": "20240404013015163",
-        "interval": "0",
-        "difficulty": "5",
-        "stability": "2",
-        "retrievability": "1",
+        "modified": "20240404063245008",
+        "due": "20240410063245008",
+        "interval": "2",
+        "difficulty": "4.1000000000000005",
+        "stability": "6.091873624375545",
+        "retrievability": "0.9",
         "lapses": "0",
-        "reps": "1",
-        "grade": "-1",
-        "review": "20240402013015163",
-        "history": "[]"
+        "reps": "2",
+        "grade": "2",
+        "review": "20240404063245007",
+        "history": "[{\"due\":\"20240404013015163\",\"interval\":0,\"difficulty\":5,\"stability\":2,\"retrievability\":1,\"grade\":-1,\"lapses\":0,\"reps\":1,\"review\":\"20240402013015163\"}]"
     }
 ]

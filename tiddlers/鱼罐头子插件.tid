@@ -6,6 +6,7 @@ priority: 0
 review: 20240402005234198
 tags: 相关插件 ? .
 title: 鱼罐头子插件
+tmap.id: ac2d5726-595e-4f39-9042-7b2fc9bf771c
 type: text/vnd.tiddlywiki
 
 是打包好的多个条目，使用和共享比较方便，又称作学习包（类似 Anki 的牌组）。

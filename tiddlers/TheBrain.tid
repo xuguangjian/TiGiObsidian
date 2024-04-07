@@ -5,6 +5,7 @@ modified: 20240401091406199
 modifier: Sttot
 tags: $:/tags/SideBar
 title: TheBrain
+tmap.id: 86696891-b61a-4737-89df-f855cf4428ee
 type: text/vnd.tiddlywiki
 
 <$echarts $tiddler="$:/plugins/Gk0Wk/echarts/addons/TheBrain.js" aliasField="caption" levels="2" graphTitle="The Barin View" $height="100%" />

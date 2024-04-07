@@ -1,1 +1,1 @@
-- (浅析 Zettelkasten 笔记法【自制双语字幕】)[https://www.bilibili.com/video/BV1Zp4y1Y7qX] by [[白宫主|λ:/obsidian中文教程/07 信息源与贡献者/白宫主]] From[[1.4.2|λ:/obsidian中文教程/07 信息源与贡献者/1.4.2]]推荐
+- (浅析 Zettelkasten 笔记法【自制双语字幕】)[https://www.bilibili.com/video/BV1Zp4y1Y7qX] 

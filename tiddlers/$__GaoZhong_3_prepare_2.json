@@ -12,16 +12,16 @@
         "sentences": "The prosecution wanted more time to prepare their case.<br>^^原告想要有更多的时间来准备诉讼。^^<br>",
         "relWords": "<b>adj.</b><br>prepared:  准备好的；精制的<br>preparatory:  预备的<br>preparative:  准备的；预备性的<br><br><b>n.</b><br>preparation:  预备；准备<br>preparatory:  预科；预备学校<br>preparedness:  准备；有准备<br>preparative:  准备，预备<br>preparer:  填表人，调制机<br><br><b>v.</b><br>prepared:  准备（prepare的过去分词）<br><br>",
         "synos": "<b>vt.</b><br>准备；使适合；装备；起草：provide, make, fix<br>",
-        "modified": "20240404063250532",
-        "due": "20240410063250532",
-        "interval": "2",
-        "difficulty": "4.1000000000000005",
-        "stability": "6.091873624375545",
-        "retrievability": "0.9",
+        "modified": "20240508031548032",
+        "due": "20240721031548032",
+        "interval": "28",
+        "difficulty": "2.2484977758869933",
+        "stability": "73.98164871357706",
+        "retrievability": "0.8470665590097508",
         "lapses": "0",
-        "reps": "2",
+        "reps": "4",
         "grade": "2",
-        "review": "20240404063250531",
-        "history": "[{\"due\":\"20240404012626407\",\"interval\":0,\"difficulty\":5,\"stability\":2,\"retrievability\":1,\"grade\":-1,\"lapses\":0,\"reps\":1,\"review\":\"20240402012626407\"}]"
+        "review": "20240508031548032",
+        "history": "[{\"due\":\"20240404012626407\",\"interval\":0,\"difficulty\":5,\"stability\":2,\"retrievability\":1,\"grade\":-1,\"lapses\":0,\"reps\":1,\"review\":\"20240402012626407\"},{\"due\":\"20240410063250532\",\"interval\":2,\"difficulty\":4.1000000000000005,\"stability\":6.091873624375545,\"retrievability\":0.9,\"grade\":2,\"lapses\":0,\"reps\":2,\"review\":\"20240404063250531\"},{\"due\":\"20240428061942943\",\"interval\":6,\"difficulty\":3.201431216877242,\"stability\":17.77422243756546,\"retrievability\":0.9014312168772408,\"grade\":2,\"lapses\":0,\"reps\":3,\"review\":\"20240410061942943\"}]"
     }
 ]

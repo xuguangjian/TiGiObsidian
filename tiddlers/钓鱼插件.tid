@@ -1,9 +1,16 @@
 created: 20211111053940936
-due: 20240414005129193
-interval: 12
-modified: 20240402005129193
-review: 20240402005129193
-tags: 钓鱼插件 ? .
+difficulty: 3.8224311118509426
+due: 20240516030857931
+grade: 2
+history: [{"due":"20240417084346280","interval":1,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240416084346280"}]
+interval: 9
+lapses: 0
+modified: 20240425030857931
+reps: 2
+retrievability: 0.6224311118509421
+review: 20240425030857931
+stability: 20.745556735549485
+tags: 钓鱼插件 . ?
 title: 钓鱼插件
 tmap.id: 3f716d1c-0f0f-4305-9cd8-eb0879c23f43
 type: text/vnd.tiddlywiki

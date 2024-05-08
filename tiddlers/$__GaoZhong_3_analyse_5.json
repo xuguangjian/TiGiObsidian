@@ -11,16 +11,16 @@
         "sentences": "She still needs to analyse the data.<br>^^她仍需要分析这些数据。^^<br>You need to sit down and analyse why you feel so upset.<br>^^你得坐下来想一想自己为什么会那么生气。^^<br>Joe had never tried to analyze their relationship.<br>^^乔从未试图去理清他们的关系。^^<br>",
         "relWords": "<b>adj.</b><br>analytical:  分析的；解析的；善于分析的<br>analytic:  分析的；解析的；善于分析的<br>analyzable:  可分析的<br><br><b>adv.</b><br>analytically:  分析地；解析地<br><br><b>n.</b><br>analysis:  分析；分解；验定<br>analyzer:  [计] 分析器；分析者；检偏镜<br>analyser:  分析器，分析仪；分析者<br>analyticity:  分析性，[数] 解析性<br><br>",
         "synos": "<b>vt.</b><br>分析；分解；细察：study, break down<br>",
-        "modified": "20240404063241727",
-        "due": "20240410063241727",
-        "interval": "2",
-        "difficulty": "4.1000000000000005",
-        "stability": "6.091873624375545",
-        "retrievability": "0.9",
+        "modified": "20240508031536945",
+        "due": "20240721031536945",
+        "interval": "28",
+        "difficulty": "2.2484977758869933",
+        "stability": "73.98164871357706",
+        "retrievability": "0.8470665590097508",
         "lapses": "0",
-        "reps": "2",
+        "reps": "4",
         "grade": "2",
-        "review": "20240404063241727",
-        "history": "[{\"due\":\"20240404013004807\",\"interval\":0,\"difficulty\":5,\"stability\":2,\"retrievability\":1,\"grade\":-1,\"lapses\":0,\"reps\":1,\"review\":\"20240402013004807\"}]"
+        "review": "20240508031536944",
+        "history": "[{\"due\":\"20240404013004807\",\"interval\":0,\"difficulty\":5,\"stability\":2,\"retrievability\":1,\"grade\":-1,\"lapses\":0,\"reps\":1,\"review\":\"20240402013004807\"},{\"due\":\"20240410063241727\",\"interval\":2,\"difficulty\":4.1000000000000005,\"stability\":6.091873624375545,\"retrievability\":0.9,\"grade\":2,\"lapses\":0,\"reps\":2,\"review\":\"20240404063241727\"},{\"due\":\"20240428061903589\",\"interval\":6,\"difficulty\":3.201431216877242,\"stability\":17.77422243756546,\"retrievability\":0.9014312168772408,\"grade\":2,\"lapses\":0,\"reps\":3,\"review\":\"20240410061903589\"}]"
     }
 ]

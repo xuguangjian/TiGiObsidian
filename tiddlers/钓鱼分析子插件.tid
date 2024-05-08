@@ -1,9 +1,16 @@
 created: 20220111071803927
-due: 20240416005151624
-interval: 14
-modified: 20240402005151625
-review: 20240402005151624
-tags: 相关插件 ? .
+difficulty: 3.8224311118509426
+due: 20240516030901140
+grade: 2
+history: [{"due":"20240417084351218","interval":1,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240416084351218"}]
+interval: 9
+lapses: 0
+modified: 20240425030901140
+reps: 2
+retrievability: 0.6224311118509421
+review: 20240425030901140
+stability: 20.745556735549485
+tags: 相关插件 . ?
 title: 钓鱼分析子插件
 tmap.id: d392a5bc-4fa1-425e-9b4a-6c9b3f5213ea
 type: text/vnd.tiddlywiki

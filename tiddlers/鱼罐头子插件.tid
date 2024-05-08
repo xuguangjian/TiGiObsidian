@@ -1,10 +1,17 @@
 created: 20220119013523900
-due: 20240413005234198
-interval: 11
-modified: 20240402005234198
+difficulty: 3.144272283381887
+due: 20240520030907332
+grade: 2
+history: [{"due":"20240414025238176","interval":1,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240413025238176"},{"due":"20240424084349518","interval":3,"difficulty":4.0538149682454625,"stability":8.17310579005002,"retrievability":0.8538149682454624,"grade":2,"lapses":0,"reps":2,"review":"20240416084349517"}]
+interval: 9
+lapses: 0
+modified: 20240425030907332
 priority: 0
-review: 20240402005234198
-tags: 相关插件 ? .
+reps: 3
+retrievability: 0.8904573151364243
+review: 20240425030907332
+stability: 24.89880316640349
+tags: 相关插件 . ?
 title: 鱼罐头子插件
 tmap.id: ac2d5726-595e-4f39-9042-7b2fc9bf771c
 type: text/vnd.tiddlywiki

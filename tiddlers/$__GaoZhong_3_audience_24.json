@@ -12,16 +12,16 @@
         "phrases": "target audience: 目标受众；目标观众；目标客户<br>audience rating: n. 收视率；视听率<br>mass audience: 大众受众<br>captive audience: 受制而走不开的听众或观众<br>audience share: 收视率；受众份额<br>",
         "sentences": "The audience began clapping and cheering.<br>^^观众开始鼓掌欢呼。^^<br>One member of the audience described the opera as ‘boring’.<br>^^有一名观众说这出歌剧“乏味”。^^<br>",
         "synos": "<b>n.</b><br>观众；听众；读者；接见：reader, interview<br>",
-        "modified": "20240404063245008",
-        "due": "20240410063245008",
-        "interval": "2",
-        "difficulty": "4.1000000000000005",
-        "stability": "6.091873624375545",
-        "retrievability": "0.9",
+        "modified": "20240508031540463",
+        "due": "20240721031540463",
+        "interval": "28",
+        "difficulty": "2.2484977758869933",
+        "stability": "73.98164871357706",
+        "retrievability": "0.8470665590097508",
         "lapses": "0",
-        "reps": "2",
+        "reps": "4",
         "grade": "2",
-        "review": "20240404063245007",
-        "history": "[{\"due\":\"20240404013015163\",\"interval\":0,\"difficulty\":5,\"stability\":2,\"retrievability\":1,\"grade\":-1,\"lapses\":0,\"reps\":1,\"review\":\"20240402013015163\"}]"
+        "review": "20240508031540463",
+        "history": "[{\"due\":\"20240404013015163\",\"interval\":0,\"difficulty\":5,\"stability\":2,\"retrievability\":1,\"grade\":-1,\"lapses\":0,\"reps\":1,\"review\":\"20240402013015163\"},{\"due\":\"20240410063245008\",\"interval\":2,\"difficulty\":4.1000000000000005,\"stability\":6.091873624375545,\"retrievability\":0.9,\"grade\":2,\"lapses\":0,\"reps\":2,\"review\":\"20240404063245007\"},{\"due\":\"20240428061936922\",\"interval\":6,\"difficulty\":3.201431216877242,\"stability\":17.77422243756546,\"retrievability\":0.9014312168772408,\"grade\":2,\"lapses\":0,\"reps\":3,\"review\":\"20240410061936922\"}]"
     }
 ]

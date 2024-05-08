@@ -1,16 +1,16 @@
 created: 20220315073031037
-difficulty: 3.2494322563157736
-due: 20240419021807224
+difficulty: 2.3076362321766632
+due: 20240615030904256
 grade: 2
-history: [{"due":"20240403005952182","interval":1,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240402005952182"},{"due":"20240407022748066","interval":1,"difficulty":4.148683298050514,"stability":4.03183163653078,"retrievability":0.9486832980505138,"grade":2,"lapses":0,"reps":2,"review":"20240403022748066"}]
-interval: 4
+history: [{"due":"20240403005952182","interval":1,"difficulty":5,"stability":2,"retrievability":1,"grade":-1,"lapses":0,"reps":1,"review":"20240402005952182"},{"due":"20240407022748066","interval":1,"difficulty":4.148683298050514,"stability":4.03183163653078,"retrievability":0.9486832980505138,"grade":2,"lapses":0,"reps":2,"review":"20240403022748066"},{"due":"20240419021807224","interval":4,"difficulty":3.2494322563157736,"stability":12.402368716347334,"retrievability":0.9007489582652597,"grade":2,"lapses":0,"reps":3,"review":"20240407021807224"}]
+interval: 18
 lapses: 0
-modified: 20240407021807224
+modified: 20240425030904256
 priority: 0
-reps: 3
-retrievability: 0.9007489582652597
-review: 20240407021807224
-stability: 12.402368716347334
+reps: 4
+retrievability: 0.858203975860889
+review: 20240425030904255
+stability: 50.557790364581024
 tags: 摸鱼子插件 . ?
 title: 导入 TWPUB 电子书子插件
 tmap.id: 85971ed5-8604-4ffd-8a5e-14406b73af88

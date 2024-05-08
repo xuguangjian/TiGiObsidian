@@ -1,7 +1,8 @@
 created: 20240401065637193
-modified: 20240405133959822
+modified: 20240426030256772
 title: GettingStarted
 tmap.id: f53e18d1-0b50-419a-b06d-e3b093fd6027
+type: text/vnd.tiddlywiki
 
 \define lingo-base() $:/language/ControlPanel/Basics/
 
@@ -32,3 +33,5 @@ Visit [[教程 (Chinese)|https://tw-cn.netlify.app/]] or [[Official Site (Englis
 可在[[控制台|$:/ControlPanel]]查看更多选项。
 
 [[Echarts使用]]
+
+[[λ:/obsidian中文教程/01 2021新教程/笔记方法论（MOC）]]
